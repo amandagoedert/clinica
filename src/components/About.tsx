@@ -32,8 +32,7 @@ const About = () => {
           {/* Imagem substituída por <img> */}
           <div className="relative">
             <div className="aspect-square rounded-2xl p-6"> {/* Removido o fundo rosa bg-secondary/50 */}
-              <img 
-                src="public/21.png"  // Caminho da nova imagem
+              <img  src="/21.png"  // Caminho da nova imagem
                 alt="Imagem de exemplo"
                 className="w-full h-full rounded-xl object-cover"  // Garantindo que a imagem cubra a área e mantenha as bordas arredondadas
               />

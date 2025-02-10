@@ -50,7 +50,7 @@ const Hero = () => {
             
             {/* Imagem circular */}
             <img
-              src="public/imagem.png" // Substitua pelo caminho da sua imagem
+              src="/imagem.png" // Substitua pelo caminho da sua imagem
               alt="Descrição da imagem"
               className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full aspect-square rounded-full object-cover"
             />
